@@ -4,7 +4,7 @@ int main()
 {
 	cout << "Hellow world!" << endl;
 
-	cout << "hellow, how are you?"<<endl;
+	cout << "hellow, "<<endl;
 		
 	return 0:
 }
